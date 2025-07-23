@@ -16,7 +16,7 @@ A fun little project to generate random color palettes and copy hex codes with a
 3. Click any color box to copy the code
 
 ## Live Demo
-[Check it here](https://your-github-Chavva-Harshita.github.io/color-generator)
+[Check it here]( https://chavva-harshita.github.io/Color-Palette-Generator/)
 
 ## Author
 Created with 💖 by Harshita
